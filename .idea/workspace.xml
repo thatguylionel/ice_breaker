@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="177c4c9d-d6af-424f-b5b9-9ea0a3362a3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ice_breaker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ice_breakerOLD1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prompt_example/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prompt_example/prompt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_parties/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_parties/linkedin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ice_breaker.py" beforeDir="false" afterPath="$PROJECT_DIR$/ice_breaker.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +46,16 @@
   "keyToString": {
     "Python.ice_breaker.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/dev/training/langchain/ice_breaker",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\training\langchain\ice_breaker" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="ice_breaker" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ice_breaker" />
